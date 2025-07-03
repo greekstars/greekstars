@@ -1,5 +1,8 @@
--  Hi, I’m @greekstars
--  I’m interested in python
--  I’m currently learning python
--  How to reach me is on discord, @mpxi
+# 🍄 Hello, I'm Greekstars
 
+💻 **Early Developer | Learner**
+
+-  Currently learning javascript
+
+---
+ **Contact me:** [Discord](https://discord.gg/tFNB5GSfmc)
